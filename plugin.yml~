@@ -1,0 +1,3 @@
+name: WorldSpace
+main: org.kylegar.bo2populator.BO2Plugin
+version: 1.0
